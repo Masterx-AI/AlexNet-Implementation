@@ -1,5 +1,7 @@
 ## AlexNet Model Description:
 
+![](https://raw.githubusercontent.com/Masterx-AI/AlexNet-Implementation/main/AlexNet.png)
+
 AlexNet was first utilized in the public setting when it won the ImageNet Large Scale Visual Recognition Challenge(ILSSVRC 2012 contest). It was at this contest that AlexNet showed that deep convolutional neural network can be used for solving image classification.
 
 AlexNet won the ILSVRC 2012 contest by a margin.
